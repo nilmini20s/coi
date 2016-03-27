@@ -1,0 +1,49 @@
+Meenakshi Arunachalam Intel
+Yungang Bao ICT-CAS
+Marc Casas BSC Spain
+Nil Chatterjee Nvidia
+Bruce Childers U. of Pittsburgh
+Chita Das Penn State
+Reetuparna Das U. of Michigan
+Luiz DeRose Cray Inc
+Evelyn Duesterwald IBM Research
+Lieven Eeckhout Ghent U. Belgium
+Oguz Ergin TOBB U. Turkey
+Alfredo Goldman University of Sao Paulo
+Ananth Grama Purdue University
+Sudhanva Gurumurthi IBM/UVa
+Hiroshi Inoue IBM Research
+Koji Inoue Kyushu Japan
+Engin Ipek U. of Rochester
+Canturk Isci IBM Research
+Jose Joao ARM
+Adwait Jog College of W&M
+Myoungsoo Jung Yonsei U. Korea
+Ulya Karpuzcu U. of Minnesota
+Omer Khan U. of Connecticut
+Samira Khan U. of Virginia
+Mike Kozuch Intel
+Sriram Krishnamoorthy PNNL
+Richard Lethin Reservoir Labs
+Tao Li U. of Florida
+Yanjing Li U. of Chicago
+Mieszko Lis UBC Canada
+Xiaosong Ma Qatar CRI Qatar
+Scott Mahlke U. of Michigan
+Naoya Maruyama RIKEn Japan
+Satoshi Matsuoka Tokyo Tech Japan
+Trevor Mudge U. of Michigan
+Dmitry Ponomarev U. of Binghamton
+Gabriel Rodriguez U. of Coruna Spain
+Soumyaroop Roy AMD
+P. Sadayappan Ohio State U.
+Xipeng Shen NCSU
+Anand Sivasubramaniam Penn State U.
+Lavanya Subramanian Intel
+Rajeev Thakur Argonne National Laboratory
+Osman Unsal BSC Spain
+Jeff Vetter ORNL
+Yuan Xie, UCSB
+Pen-Chung Yew Minnesota U.
+Zheng Zhang Rutgers U.
+Jishen Zhao UCSC
